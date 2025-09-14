@@ -9,7 +9,7 @@
 
 ## 💡 Sobre mim
 
-Sou apaixonado por tecnologia e estou dando os primeiros passos no desenvolvimento de software. Atualmente estou focado em aprender tanto o front-end quanto o back-end, com o objetivo de me tornar um desenvolvedor full stack completo. Tenho explorado HTML, CSS, JavaScript, Python e Git, aplicando meus aprendizados em projetos como o [Jogo do Número Secreto](https://github.com/JoseMarquesN/Jogo-Numero-Secreto).
+Sou apaixonado por tecnologia e estou dando os primeiros passos no desenvolvimento de software. Atualmente estou focado em aprender tanto o front-end quanto o back-end, com o objetivo de me tornar um desenvolvedor full stack completo. Tenho explorado HTML, CSS, JavaScript, Python e Git.
 
 ---
 
@@ -20,7 +20,6 @@ Sou apaixonado por tecnologia e estou dando os primeiros passos no desenvolvimen
 - Git e GitHub  
 - VS Code  
 - Figma (básico)  
-- Terminal
 
 ---
 
